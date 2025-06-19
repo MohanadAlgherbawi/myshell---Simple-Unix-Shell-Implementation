@@ -84,5 +84,5 @@ This project is licensed under the MIT License.
 
 9. Acknowledgments
 -----------------
-- Special thanks to Dr. Sadiq Ashour for valuable guidance
+- Special thanks to Eng. Sadiq Ashour for valuable guidance
 - Inspired by GNU Bash and Unix shell implementations
